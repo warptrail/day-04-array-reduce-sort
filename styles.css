@@ -1,0 +1,15 @@
+body {
+  background-color: #1d1f21;
+  color: #e39100;
+}
+
+img {
+  width: 100%;
+  filter: hue-rotate(190deg);
+}
+
+a {
+  font-size: 24px;
+  color: yellow;
+}
+
